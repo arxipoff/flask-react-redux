@@ -6,7 +6,7 @@ Install python dependencies:
  
 Go to server folder and run server on [http://localhost:3000](http://localhost:3000):
  ```bash
-  py index.py
+  python index.py
  ```
 
  ## Test project(client)
